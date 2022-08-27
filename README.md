@@ -1,16 +1,10 @@
 # flutter_game_shop_ui
 
-A new Flutter project.
+-
+-
+😍watch tutorial on youtube:https://youtu.be/bCmuyEDu_I8
 
-## Getting Started
+-
+-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sgeb](https://user-images.githubusercontent.com/78899995/186712490-9c47a6b6-1cab-4702-8109-142994f2cffe.jpg)
